@@ -3,3 +3,5 @@
 	email = chrisjae508@gmail.com
 [core]
 	editor = vim
+[credential]
+	helper = store

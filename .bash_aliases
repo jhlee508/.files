@@ -15,6 +15,7 @@ alias rs='rocm-smi'
 alias wrs='watch -n 1 rocm-smi'
 alias ns='nvidia-smi'
 alias wns='watch -n 1 nvidia-smi'
+alias wdns='watch -d -n 1 nvidia-smi'
 
 # Tmux
 alias tl='tmux ls'
@@ -25,6 +26,7 @@ alias tk='tmux kill-session -t'
 # Git
 alias ga='git add'
 alias gc='git commit' # -m
+alias gl='git log'
 
 # ETC
 alias cx='chmod +x'
