@@ -27,6 +27,7 @@ alias tk='tmux kill-session -t'
 alias ga='git add'
 alias gc='git commit' # -m
 alias gl='git log'
+alias gs='git status'
 
 # ETC
 alias cx='chmod +x'
